@@ -1,0 +1,30 @@
+.icon{
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	width: 200px;
+	height: 200px;
+
+}
+.tot{
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+
+}
+.imagine img{
+	width: 450px;
+	height: 530px;
+
+}
+.numai{
+	background: #CFBDD4;
+	width: 500px;
+	height: 850px;
+	padding-left: 40px;
+	padding-top: 30px;
+}
+ h5{
+	font-size: 20px;
+}
+.text p{
+	font-size: 20px;
+}
